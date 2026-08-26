@@ -1,10 +1,5 @@
 <h1 align="center">I exist</h1>
-<h3 align="center">Hey</h3>
-<img src="https://gepser-markdown-progress.st crappy.workers.dev/progress/0?barColor=5e51a6" alt="Progress Bar" width="300">
-
-- [x] 2026-08-26 ->
-- [ ] something
-- [ ] what it is
+<h3 align="center">Anxity</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepsundar-das&label=Profile%20views&color=0e75b6&style=flat" alt="deepsundar-das" /> </p>
