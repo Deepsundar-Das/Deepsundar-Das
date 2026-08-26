@@ -1,8 +1,8 @@
 <h1 align="center">I exist</h1>
-<h3 align="center">I like to daydream and I could not achieve anything</h3>
+<h3 align="center">Hey</h3>
 <img src="https://gepser-markdown-progress.st crappy.workers.dev/progress/0?barColor=5e51a6" alt="Progress Bar" width="300">
 
-- [ ] 2026-08-26 ->
+- [x] 2026-08-26 ->
 - [ ] something
 - [ ] what it is
 
