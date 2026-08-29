@@ -19,7 +19,8 @@
 
 <br/>
 
-## 🛠️ Tech Stack
+<!--tech stack-->
+## <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/bbe6bef3-75bb-466c-8fa0-b2973f2ad0a8" /> Tech Stack
 
 **Languages**
 <br/>
