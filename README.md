@@ -35,7 +35,6 @@
       style="vertical-align: middle;"/>
   </picture>
   Currently building <strong><a href="https://github.com/Deepsundar-Das/zootopia">Zootopia</a></strong> — a FastAPI backend for zoo management with fine-grained authorization via OpenFGA
-
 - <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -47,7 +46,6 @@
       src="./books_dark.png"
       style="vertical-align: middle;"/>
   </picture> Also built <strong><a href="https://github.com/Deepsundar-Das/BookTorch">BookTorch</a></strong> — a React-based online bookstore with a full admin dashboard and multi-role auth
-
 - <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -60,7 +58,6 @@
       style="vertical-align: middle;"/>
   </picture>
   Sharpening my <strong>Low-Level Design (LLD)</strong> skills, alongside <strong>Docker</strong> and <strong>AWS</strong>
-
 - <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -73,7 +70,6 @@
       style="vertical-align: middle;"/>
   </picture>
   3.5+ years of hands-on experience with <strong>Java</strong> — my first language, and one I still know inside out
-
 - <picture>
     <source
       media="(prefers-color-scheme: dark)"
