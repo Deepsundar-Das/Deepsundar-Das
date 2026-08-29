@@ -65,7 +65,7 @@ Multi-Tenant zoo management system — built with **FastAPI** and **SQLModel**, 
 </td>
 <td width="50%" valign="top">
 
-### <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/d42ef896-75e8-4253-a0b9-343ff36f8472" /> [BookTorch](https://github.com/Deepsundar-Das/folio)
+### <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/d42ef896-75e8-4253-a0b9-343ff36f8472" /> [BookTorch](https://github.com/Deepsundar-Das/BookTorch)
 
 Bookstore management system  — multi‑role auth, a full admin dashboard for catalog and orders, wishlists, and book reviews.
 
