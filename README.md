@@ -1,19 +1,21 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=750&height=50&lines=Hi+there%2C+I%27m+Deepsundar+%F0%9F%91%8B;Backend+%26+Frontend+Developer;Python+%7C+FastAPI+%7C+React+%7C+Svelte+%7C+Java;Currently+exploring+LLD%2C+Docker+%26+AWS" alt="Typing SVG" />
+# Hey, I'm Deep 👋
+
+### for now I'm a Backend Developer...
 
 </div>
 
 <br/>
 
-## 🧭 About Me
+## <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/8f84af79-95a2-4df3-957a-15f3a872076f" /> About Me
 
-- 🔭 Currently building **[Zootopia](https://github.com/Deepsundar-Das/zootopia)** — a FastAPI backend for zoo management with fine‑grained authorization via OpenFGA
-- 🎨 Also built **BookTorch** — a React‑based online bookstore with a full admin dashboard and multi‑role auth
-- 🌱 Sharpening my **Low‑Level Design (LLD)** skills, alongside **Docker** and **AWS**
-- ☕ 3.5+ years of hands‑on experience with **Java** — my first language, and one I still know inside out
-- 🐧 Daily driver: **Arch Linux**, comfortable in the shell
-- 💬 Ask me about Python, FastAPI, React, or Svelte
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/19a5929d-f403-44a7-84a9-06de28dc4ec1" /> Currently building **[Zootopia](https://github.com/Deepsundar-Das/zootopia)** — a FastAPI backend for zoo management with fine‑grained authorization via OpenFGA
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/d42ef896-75e8-4253-a0b9-343ff36f8472" /> Also built **BookTorch** — a React‑based online bookstore with a full admin dashboard and multi‑role auth
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/003af8ce-8441-4509-9b7b-90a130bda20f" /> Sharpening my **Low‑Level Design (LLD)** skills, alongside **Docker** and **AWS**
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/4d1afc0f-2ffe-41b4-bc88-408855db225c" /> 3.5+ years of hands‑on experience with **Java** — my first language, and one I still know inside out
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/a569d896-a908-428b-9431-bb5e2d043b09" /> Daily driver: **Arch Linux**, comfortable in the shell
+- 💬 Ask me about Python, FastAPI, Java, and obviously we can talk about linux and operating system all day long
 
 <br/>
 
@@ -45,13 +47,14 @@
 
 <br/>
 
-## 📌 Featured Projects
+<!-- Featured Projects -->
+## <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/ebbaf047-0917-41ea-a63a-81500a224454" /> Featured Projects
 
-<table width="100%">
+<table width="100%" style="border: none;">
 <tr>
 <td width="50%" valign="top">
 
-### 🦁 [Zootopia](https://github.com/Deepsundar-Das/zootopia)
+### <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/f1e0bb75-8bde-4ff4-a621-0a2a22285826" /> [Zootopia](https://github.com/Deepsundar-Das/zootopia)
 
 Multi-Tenant zoo management system — built with **FastAPI** and **SQLModel**, with fine‑grained authorization handled by **OpenFGA**.
 
@@ -61,7 +64,7 @@ Multi-Tenant zoo management system — built with **FastAPI** and **SQLModel**, 
 </td>
 <td width="50%" valign="top">
 
-### 📚 [BookTorch](https://github.com/Deepsundar-Das/folio)
+### <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/d42ef896-75e8-4253-a0b9-343ff36f8472" /> [BookTorch](https://github.com/Deepsundar-Das/folio)
 
 Bookstore management system  — multi‑role auth, a full admin dashboard for catalog and orders, wishlists, and book reviews.
 
@@ -75,7 +78,8 @@ Bookstore management system  — multi‑role auth, a full admin dashboard for c
 
 <br/>
 
-## 📊 GitHub Stats
+<!-- Github Stats -->
+## <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/177912ea-24d7-40a8-9134-cf7dccac2f62" /> GitHub Stats
 
 <div align="center">
 
@@ -86,14 +90,14 @@ Bookstore management system  — multi‑role auth, a full admin dashboard for c
 
 <br/>
 
-## 🤝 Connect With Me
+<!-- Connect with Me -->
+## <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/bf652870-1220-40bb-9ea5-925df15c78b5" /> Connect With Me
 
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepsundardas8@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepsundar-das-87b442368/)
-![Location](https://img.shields.io/badge/Location-City%2C_Country-0D1117?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
