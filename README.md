@@ -227,9 +227,9 @@ and book reviews.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com/?user=Deepsundar-Das&background=FFFFFF&border=D0D7DE&stroke=FFFFFF&ring=24292F&fire=24292F&currStreakNum=24292F&sideNums=57606A&currStreakLabel=24292F&sideLabels=57606A&dates=57606A"/>
+    srcset="https://streak-stats.demolab.com/?user=Deepsundar-Das&background=0D1117&border=30363D&stroke=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=8B949E"/>
   <img
-    src="https://streak-stats.demolab.com/?user=Deepsundar-Das&background=0D1117&border=30363D&stroke=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=8B949E"
+    src="https://streak-stats.demolab.com/?user=Deepsundar-Das&background=FFFFFF&border=D0D7DE&stroke=FFFFFF&ring=24292F&fire=24292F&currStreakNum=24292F&sideNums=57606A&currStreakLabel=24292F&sideLabels=57606A&dates=57606A"
     width="60%"
     alt="GitHub Streak Stats"
   />
