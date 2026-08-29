@@ -12,12 +12,12 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/user-attachments/assets/485c839f-ef78-42d6-b90c-bb75dd448b3c"/>
+      srcset="./id_card_white.png"/>
     <img
       width="24"
       height="24"
       alt=""
-      src="https://github.com/user-attachments/assets/c1e02b17-f37f-4def-a3c0-f95556981987"
+      src="./id_card_black.png"
       style="vertical-align: middle;"/>
   </picture>
   About Me
@@ -26,12 +26,12 @@
 - <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/user-attachments/assets/97db1ae0-8a6b-4b19-9dc4-951613b085cb"/>
+      srcset="./telescope_white.png"/>
     <img
       width="20"
       height="20"
       alt=""
-      src="https://github.com/user-attachments/assets/19a5929d-f403-44a7-84a9-06de28dc4ec1"
+      src="./telescope_black.png"
       style="vertical-align: middle;"/>
   </picture>
   Currently building <strong><a href="https://github.com/Deepsundar-Das/zootopia">Zootopia</a></strong> — a FastAPI backend for zoo management with fine-grained authorization via OpenFGA
@@ -39,24 +39,24 @@
 - <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/user-attachments/assets/16b13c7b-22e7-42da-b880-1a1ae82aeee6"/>
+      srcset="./books_white.png"/>
     <img
       width="20"
       height="20"
       alt=""
-      src="https://github.com/user-attachments/assets/9ab70401-82ef-4704-9a3a-18ae3be27e5d"
+      src="./books_black.png"
       style="vertical-align: middle;"/>
   </picture> Also built <strong><a href="https://github.com/Deepsundar-Das/BookTorch">BookTorch</a></strong> — a React-based online bookstore with a full admin dashboard and multi-role auth
 
 - <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/user-attachments/assets/77552efa-d978-4315-9ea1-2a5dcb4f723a"/>
+      srcset="./brain_white.png"/>
     <img
       width="20"
       height="20"
       alt=""
-      src="https://github.com/user-attachments/assets/8fddb8d7-0f5e-44ff-9ba3-5a8954cc2ef1"
+      src="brain_dark.png"
       style="vertical-align: middle;"/>
   </picture>
   Sharpening my <strong>Low-Level Design (LLD)</strong> skills, alongside <strong>Docker</strong> and <strong>AWS</strong>
@@ -64,12 +64,12 @@
 - <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/user-attachments/assets/ccdce0db-0a50-4062-a6f9-bf6f6d5f050f"/>
+      srcset="./coffee_white.png"/>
     <img
       width="20"
       height="20"
       alt=""
-      src="https://github.com/user-attachments/assets/d392c954-e15b-4637-9e3c-4459c1b26e49"
+      src="./coffee_black.png"
       style="vertical-align: middle;"/>
   </picture>
   3.5+ years of hands-on experience with <strong>Java</strong> — my first language, and one I still know inside out
@@ -77,17 +77,17 @@
 - <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/user-attachments/assets/a3cd66d8-421c-44ba-a077-dc277cb4cfcb"/>
+      srcset="linux_white.png"/>
     <img
       width="20"
       height="20"
       alt=""
-      src="https://github.com/user-attachments/assets/a569d896-a908-428b-9431-bb5e2d043b09"
+      src="linux_black.png"
       style="vertical-align: middle;"/>
   </picture>
   Daily driver: <strong>Arch Linux</strong>, comfortable in the shell
 - 💬 Ask me about **Python, FastAPI, Java**, and obviously we can talk about **Linux and operating systems** all day long.
-
+- 
 <br/>
 
 <!-- Tech Stack -->
@@ -95,12 +95,12 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/user-attachments/assets/78e4468b-f349-43db-879a-bfe8449be4d1" />
+      srcset="tech_stack_white.png" />
     <img
       width="24"
       height="24"
       alt=""
-      src="https://github.com/user-attachments/assets/bbe6bef3-75bb-466c-8fa0-b2973f2ad0a8"/>
+      src="tech_stack_dark.png"/>
   </picture>
   Tech Stack
 </h2>
@@ -137,12 +137,12 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/user-attachments/assets/53eddb36-e456-4933-a42e-ba07cdc7452f" />
+      srcset="projects_white.png" />
     <img
-      width="24"
-      height="24"
+      width="26"
+      height="26"
       alt=""
-      src="https://github.com/user-attachments/assets/ebbaf047-0917-41ea-a63a-81500a224454"/>
+      src="project_dark.png"/>
   </picture>
   Featured Projects
 </h2>
@@ -181,12 +181,12 @@ authorization handled by <strong>OpenFGA</strong>.
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/user-attachments/assets/74d3a22f-8a4d-46f1-8cda-9909f0aa0ab3"/>
+      srcset="books_white.png"/>
     <img
-      width="28"
-      height="28"
+      width="24"
+      height="24"
       alt=""
-      src="https://github.com/user-attachments/assets/4d69b663-b5bc-446b-8535-d40bcace6931" />
+      src="books_dark.png" />
 
   </picture>
   <a href="https://github.com/Deepsundar-Das/BookTorch">BookTorch</a>
