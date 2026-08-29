@@ -8,12 +8,12 @@
 
 ## 🧭 About Me
 
-- 🔭 Currently building **[Zootopia](https://github.com/Deepsundar-Das/zootopia)** — a FastAPI backend for zoo management with fine‑grained authorization via OpenFGA
+- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c7f0f40a-e2a3-4041-87df-8d89606b33fc" /> Currently building **[Zootopia](https://github.com/Deepsundar-Das/zootopia)** — a FastAPI backend for zoo management with fine‑grained authorization via OpenFGA
 - 🎨 Also built **Folio** — a React‑based online bookstore with a full admin dashboard and multi‑role auth
 - 🌱 Sharpening my **Low‑Level Design (LLD)** skills, alongside **Docker** and **AWS**
 - ☕ 3.5+ years of hands‑on experience with **Java** — my first language, and one I still know inside out
-- 🐧 Daily driver: **Arch Linux**, comfortable in the shell
-- 💬 Ask me about Python, FastAPI, React, or Svelte
+- 🐧 Daily driver: **Arch Linux**,**NixOS**, comfortable in the shell
+- 💬 Ask me about Python, FastAPI, Java, OpenFGA, Linux
 
 <br/>
 
