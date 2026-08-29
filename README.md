@@ -106,32 +106,24 @@
 </h2>
 
 <strong>Languages</strong>
-<br/>
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=white)
 
-<br/>
 
 <strong>Backend</strong>
-<br/>
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=white)
 
-<br/>
 
 <strong>Currently Learning</strong>
-<br/>
 
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![LLD](https://img.shields.io/badge/LLD-0D1117?style=for-the-badge)
 
-<br/>
-
 <strong>Tools & Platforms</strong>
-<br/>
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-0D1117?style=for-the-badge&logo=archlinux&logoColor=white)
 ![NixOS](https://img.shields.io/badge/NixOS-0D1117?style=for-the-badge&logo=nixos&logoColor=white)
@@ -262,7 +254,6 @@ and book reviews.
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepsundardas8@gmail.com)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepsundar-das-87b442368/)
 
 </div>
