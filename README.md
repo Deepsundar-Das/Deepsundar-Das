@@ -26,12 +26,12 @@
 - <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="./telescope_white.png"/>
+      srcset="telescope_white.png"/>
     <img
       width="20"
       height="20"
       alt=""
-      src="./telescope_black.png"
+      src="telescope_dark.png"
       style="vertical-align: middle;"/>
   </picture>
   Currently building <strong><a href="https://github.com/Deepsundar-Das/zootopia">Zootopia</a></strong> — a FastAPI backend for zoo management with fine-grained authorization via OpenFGA
@@ -44,7 +44,7 @@
       width="20"
       height="20"
       alt=""
-      src="./books_black.png"
+      src="./books_dark.png"
       style="vertical-align: middle;"/>
   </picture> Also built <strong><a href="https://github.com/Deepsundar-Das/BookTorch">BookTorch</a></strong> — a React-based online bookstore with a full admin dashboard and multi-role auth
 
@@ -69,7 +69,7 @@
       width="20"
       height="20"
       alt=""
-      src="./coffee_black.png"
+      src="./coffee_dark.png"
       style="vertical-align: middle;"/>
   </picture>
   3.5+ years of hands-on experience with <strong>Java</strong> — my first language, and one I still know inside out
@@ -82,7 +82,7 @@
       width="20"
       height="20"
       alt=""
-      src="linux_black.png"
+      src="linux_dark.png"
       style="vertical-align: middle;"/>
   </picture>
   Daily driver: <strong>Arch Linux</strong>, comfortable in the shell
@@ -141,7 +141,7 @@
       width="26"
       height="26"
       alt=""
-      src="project_dark.png"/>
+      src="projects_dark.png"/>
   </picture>
   Featured Projects
 </h2>
@@ -224,11 +224,16 @@ and book reviews.
 
 <div align="center">
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Deepsundar-Das&background=0D1117&border=30363D&stroke=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=8B949E"
-  width="60%"
-  alt="GitHub Streak Stats"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com/?user=Deepsundar-Das&background=FFFFFF&border=D0D7DE&stroke=FFFFFF&ring=24292F&fire=24292F&currStreakNum=24292F&sideNums=57606A&currStreakLabel=24292F&sideLabels=57606A&dates=57606A"/>
+  <img
+    src="https://streak-stats.demolab.com/?user=Deepsundar-Das&background=0D1117&border=30363D&stroke=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=8B949E"
+    width="60%"
+    alt="GitHub Streak Stats"
+  />
+</picture>
 
 </div>
 
@@ -239,13 +244,13 @@ and book reviews.
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="handshake_white.png" />
+      srcset="https://github.com/user-attachments/assets/1f65fd8a-e45a-447c-972e-6eb14c6792de" />
 
   <img
       width="24"
       height="24"
       alt=""
-      src="handshake_dark.png"/>
+      src="https://github.com/user-attachments/assets/d5012081-aa24-41da-9aac-a3f62b2f23f0" />
   </picture>
   Connect With Me
 </h2>
