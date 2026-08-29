@@ -87,7 +87,6 @@
   </picture>
   Daily driver: <strong>Arch Linux</strong>, comfortable in the shell
 - 💬 Ask me about **Python, FastAPI, Java**, and obviously we can talk about **Linux and operating systems** all day long.
-- 
 <br/>
 
 <!-- Tech Stack -->
