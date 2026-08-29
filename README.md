@@ -156,12 +156,12 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/user-attachments/assets/81b56e38-f9a1-44d0-a69f-01e36e936f11" />
+      srcset="paw_white.png" />
     <img
       width="28"
       height="28"
       alt=""
-      src="https://github.com/user-attachments/assets/f1e0bb75-8bde-4ff4-a621-0a2a22285826"/>
+      src="paw_dark.png"/>
   </picture>
   <a href="https://github.com/Deepsundar-Das/zootopia">Zootopia</a>
 </h3>
@@ -240,13 +240,13 @@ and book reviews.
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/user-attachments/assets/b926b4c6-0810-4e0d-9457-18ca75dfa266" />
+      srcset="handshake_white.png" />
 
   <img
       width="24"
       height="24"
       alt=""
-      src="https://github.com/user-attachments/assets/7f0f73bc-feab-45c3-9734-e76c62e6ef84"/>
+      src="handshake_dark.png"/>
   </picture>
   Connect With Me
 </h2>
