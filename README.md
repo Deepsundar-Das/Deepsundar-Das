@@ -245,8 +245,7 @@ and book reviews.
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://github.com/user-attachments/assets/1f65fd8a-e45a-447c-972e-6eb14c6792de" />
-
-  <img
+    <img
       width="24"
       height="24"
       alt=""
